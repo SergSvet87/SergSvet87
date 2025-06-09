@@ -1,8 +1,8 @@
-# 👋 Привіт! Я Сергій
+# 👋 Привіт! Я Сергій (SergSvet87)
 
 ## 🧑‍💻 Фронтенд-розробник
 
-Спеціалізуюсь на створенні сучасних, адаптивних вебзастосунків з використанням **React**, **TypeScript**, **TailwindCSS** та **Next.js**.
+Спеціалізуюсь на створенні сучасних, адаптивних вебзастосунків з використанням **React**, **TypeScript**, **TailwindCSS** та **Next.js**, інтегрую реальний бекенд (Firebase, REST API) та реалізую інтуїтивну взаємодію з користувачем.
 
 - 🔭 Зараз працюю над кількома pet-проєктами
 - 🧠 Вивчаю **Next.js App Router**, інтеграцію API та UI-оптимізацію
@@ -15,20 +15,34 @@
 - 🧠 Технології: Next.js · TypeScript · TailwindCSS · Markdown
 - 🚀 Можливості: рендеринг постів із Markdown, адаптивний дизайн, компонентна структура
 - 📈 Мета: навчання та демонстрація створення блогу з нуля
-[DEMO LINK](https://blog-nextjs-olive-five.vercel.app/)<br/>
+🔗 [DEMO LINK](https://blog-nextjs-olive-five.vercel.app/)<br/>
 
-###📦 Jewelry Store
-Інтернет-магазин ювелірних виробів з підтримкою фільтрації, пагінації та сучасного UI.
+### 📦 [Jewelry Store](https://github.com/SergSvet87/jewelry-store)
+Інтернет-магазин ювелірних виробів з повною фільтрацією, пагінації адаптивним UI і підтримкою обраного.
+Інтернет-магазин ювелірних виробів з підтримкою фільтрації,  та сучасного UI.
 - ⚙️ Технології: React · TypeScript · TailwindCSS · Zustand · Firebase
 - 💡 Можливості: фільтрація товарів, додавання в кошик, улюблене, адаптивна верстка
 - 🎯 Мета: демонстрація застосування сучасного фронтенд-стека у комерційному UI
-[DEMO LINK](https://jewelry-store-sigma.vercel.app/)<br/>
+🔗 [DEMO LINK](https://jewelry-store-eosin.vercel.app/)
+
+### 🍵 [CupTime Store](https://github.com/SergSvet87/cup-time)
+Сторінка каталогу товарів для онлайн-магазину чаю з фільтрацією за категоріями, адаптивною версткою та сучасним дизайном.
+⚙️ Stack: React, TypeScript, Zustand, TailwindCSS
+🔗 [Демо](https://cup-time-inky.vercel.app/products?category=tea)  
+
+---
+
+### 🎬 [App Movies](https://github.com/SergSvet87/App_Movies)
+Застосунок для пошуку та перегляду трейлерів фільмів через OMDB API.
+⚙️ Stack: React, JavaScript, CSS Modules
+🔗 [Демо](https://sergsvet87.github.io/App_Movies/)  
 
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat-square&logo=tailwind-css)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero)
@@ -37,9 +51,12 @@
 ## 📈 GitHub Stats
 
 ![SergSvet87's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=radical)
 
 ## 📫 Зв'язатися
 
-- Email: [svitlychnyi.frontdev@gmail.com]
-- Telegram: [@Serg_svet]
+- 📧 Email: [svitlychnyi.frontdev@gmail.com]
+- ![image](https://github.com/user-attachments/assets/d79c48fa-a27d-4c49-b906-70864839a248) Telegram: [@Serg_svet]
+- 💼 LinkedIn: [https://www.linkedin.com/in/serhii-svitlychnyi/]
+- 🌍 Портфоліо: [https://blog-nextjs-olive-five.vercel.app/works]
 
