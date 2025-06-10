@@ -14,7 +14,7 @@
 Блогова платформа, створена на базі **Next.js** з підтримкою SSR та сучасного UI.
 - 🧠 Технології: Next.js · TypeScript · TailwindCSS · Markdown
 - 🚀 Можливості: рендеринг постів із Markdown, адаптивний дизайн, компонентна структура
-- 📈 Мета: навчання та демонстрація створення блогу з нуля
+- 📈 Мета: навчання та демонстрація створення блогу з нуля</br>
 🔗 [DEMO LINK](https://blog-nextjs-olive-five.vercel.app/)<br/>
 
 ### 📦 [Jewelry Store](https://github.com/SergSvet87/jewelry-store)
@@ -22,20 +22,20 @@
 Інтернет-магазин ювелірних виробів з підтримкою фільтрації,  та сучасного UI.
 - ⚙️ Технології: React · TypeScript · TailwindCSS · Zustand · Firebase
 - 💡 Можливості: фільтрація товарів, додавання в кошик, улюблене, адаптивна верстка
-- 🎯 Мета: демонстрація застосування сучасного фронтенд-стека у комерційному UI
+- 🎯 Мета: демонстрація застосування сучасного фронтенд-стека у комерційному UI</br>
 🔗 [DEMO LINK](https://jewelry-store-eosin.vercel.app/)
 
 ### 🍵 [CupTime Store](https://github.com/SergSvet87/cup-time)
 Сторінка каталогу товарів для онлайн-магазину чаю з фільтрацією за категоріями, адаптивною версткою та сучасним дизайном.
-⚙️ Stack: React, TypeScript, Zustand, TailwindCSS
-🔗 [Демо](https://cup-time-inky.vercel.app/products?category=tea)  
+⚙️ Stack: React, TypeScript, Zustand, TailwindCSS</br>
+🔗 [DEMO LINK](https://cup-time-inky.vercel.app/products?category=tea)  
 
 ---
 
 ### 🎬 [App Movies](https://github.com/SergSvet87/App_Movies)
 Застосунок для пошуку та перегляду трейлерів фільмів через OMDB API.
-⚙️ Stack: React, JavaScript, CSS Modules
-🔗 **Демо:** https://sergsvet87.github.io/App_Movies/ 
+⚙️ Stack: React, JavaScript, CSS Modules</br>
+🔗 [DEMO LINK](https://sergsvet87.github.io/App_Movies/)
 
 ## 🛠 Tech Stack
 
@@ -44,7 +44,7 @@
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
 
@@ -53,21 +53,18 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=tokyonight" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 
-![SergSvet87's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=radical)
-
 ## 📫 Зв'язатися
 
-- 📧 Email: [svitlychnyi.frontdev@gmail.com]
-- ![image](https://github.com/user-attachments/assets/d79c48fa-a27d-4c49-b906-70864839a248) Telegram: [@Serg_svet]
-- 💼 LinkedIn: [https://www.linkedin.com/in/serhii-svitlychnyi/]
-- 🌍 Портфоліо: [https://blog-nextjs-olive-five.vercel.app/works]
+- 📧 Email: <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=google&logoColor=white" height="20" />(svitlychnyi.frontdev@gmail.com)
+- 💬 Telegram: <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="20" />(https://t.me/@Serg_svet)
+- 💼 LinkedIn: <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=linkedin&logoColor=white" height="20" />(https://www.linkedin.com/in/serhii-svitlychnyi/)
+- 🌍 Портфоліо: <img src="https://github.com/user-attachments/assets/35a50b7b-cb54-4af8-927e-33fae5068dbd" height="20" />(https://sergsvet87.github.io/My_RESUME/#ua)
 
