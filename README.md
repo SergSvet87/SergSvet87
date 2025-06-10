@@ -35,20 +35,31 @@
 ### 🎬 [App Movies](https://github.com/SergSvet87/App_Movies)
 Застосунок для пошуку та перегляду трейлерів фільмів через OMDB API.
 ⚙️ Stack: React, JavaScript, CSS Modules
-🔗 [Демо](https://sergsvet87.github.io/App_Movies/)  
+🔗 **Демо:** https://sergsvet87.github.io/App_Movies/ 
 
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat&logo=tailwind-css)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
 
 ## 📈 GitHub Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=radical" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
 
 ![SergSvet87's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergSvet87&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergSvet87&layout=compact&theme=radical)
