@@ -28,9 +28,7 @@
 ### 🍵 [CupTime Store](https://github.com/SergSvet87/cup-time)
 Сторінка каталогу товарів для онлайн-магазину чаю з фільтрацією за категоріями, адаптивною версткою та сучасним дизайном.
 ⚙️ Stack: React, TypeScript, Zustand, TailwindCSS</br>
-🔗 [DEMO LINK](https://cup-time-inky.vercel.app/products?category=tea)  
-
----
+🔗 [DEMO LINK](https://cup-time-inky.vercel.app/products?category=tea) 
 
 ### 🎬 [App Movies](https://github.com/SergSvet87/App_Movies)
 Застосунок для пошуку та перегляду трейлерів фільмів через OMDB API.
@@ -63,8 +61,8 @@
 
 ## 📫 Контакти
 
-- 📧 Email: [![Email](https://img.shields.io/badge/Gmail-sergsvet87%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitlychnyi.frontdev@gmail.com)
-- 💬 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@SergSvet87-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Serg_svet)
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-SergSvet-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-svitlychnyi)
+- 📧 Email: [![Email](https://img.shields.io/badge/Gmail-svitlychnyi.frontdev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitlychnyi.frontdev@gmail.com)
+- 💬 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@Serg_svet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Serg_svet)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-serhii-svitlychnyi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-svitlychnyi)
 - 🌍 Портфоліо: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://sergsvet87.github.io/My_RESUME/#ua)
 
