@@ -61,7 +61,13 @@
 </tr>
 </table>
 
-## 📫 Зв'язатися
+## 📫 Контакти
+
+- 📧 Email: [![Email](https://img.shields.io/badge/Gmail-sergsvet87%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergsvet87@gmail.com)
+- 💬 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@SergSvet87-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SergSvet87)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-SergSvet-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergsvet)
+- 🌍 Портфоліо: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://sergsvet87.vercel.app)
+
 
 - 📧 Email: <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=google&logoColor=white" height="20" />(svitlychnyi.frontdev@gmail.com)
 - 💬 Telegram: <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="20" />(https://t.me/@Serg_svet)
